@@ -65,7 +65,7 @@ Tensor(shape=[2, 2, 5], dtype=int64, place=CUDAPlace(0), stop_gradient=True,
 ```
 上述不同ndim的**Tensor**可以可视化的表示为：
 
-<center><img src="https://github.com/PaddlePaddle/FluidDoc/blob/develop/doc/paddle/guides/images/Tensor_2.0.png?raw=true" width="800"></center>
+<center><img src="images/Tensor_2.0.png" width="800"></center>
 <br><center>图1 不同ndim的Tensor可视化表示</center>
 
 
